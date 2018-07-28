@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Jmeter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/META-INF/lib/Jmeter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
